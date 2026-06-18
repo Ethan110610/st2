@@ -4,11 +4,11 @@
 body {
   font-family: "Segoe UI", Roboto, sans-serif;
   margin: 0;
-  background: #dee0e3;
+  background: #cbcfd3;
   color: #000000;
 }
 header {
-  background: linear-gradient(120deg, #00e1ff, #0349c1cd);
+  background: linear-gradient(120deg, #ff6c03, #ff000097);
   color: #fff;
   padding: 60px 20px;
   text-align: center; 
@@ -27,7 +27,7 @@ section {
 }
 section h2 {
   margin-top: 0;
-  color: #0076bf;
+  color: #bf0000e7;
 }
 footer {
   padding: 24px;
@@ -63,7 +63,7 @@ footer {
     position: absolute;
     top: 100%;
     left: 0;
-    background: #333;
+    background: #444;
     list-style: none;
     padding: 0;
     margin: 0;
